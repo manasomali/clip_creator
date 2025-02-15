@@ -1,5 +1,1 @@
-PySimpleGUI==5.0.7
-moviepy==1.0.3
-proglog==0.1.10
-Pillow==11.0.0
 auditok==0.3.0
